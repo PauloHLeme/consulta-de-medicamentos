@@ -83,10 +83,3 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 ## 👨‍💻 Autor
 
 Desenvolvido com ❤️ por **Paulo Henrique Leme**.
-
-<div align="center">
-
-| <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> | <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /> | <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /> |
-|---|---|---|
-
-</div>
