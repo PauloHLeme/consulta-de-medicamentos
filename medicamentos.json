@@ -1,0 +1,1467 @@
+[
+  {
+    "nome": "Amoxicilina",
+    "descricao": "Antibiótico betalactâmico de amplo espectro, pertencente à classe das penicilinas, utilizado para tratar diversas infecções bacterianas.",
+    "principioAtivo": "Amoxicilina",
+    "indicacoes": "Infecções do trato respiratório superior e inferior, infecções do trato geniturinário, infecções da pele e tecidos moles, e infecções dentárias.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Diarreia",
+        "Náuseas",
+        "Erupção cutânea"
+      ],
+      "incomuns": [
+        "Vômitos",
+        "Urticária",
+        "Prurido"
+      ],
+      "raros": [
+        "Colite pseudomembranosa",
+        "Hepatite",
+        "Icterícia colestática"
+      ],
+      "muitoRaros": [
+        "Reações anafiláticas graves",
+        "Síndrome de Stevens-Johnson",
+        "Anemia hemolítica"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/amoxicilina/bula"
+  },
+  {
+    "nome": "Sertralina",
+    "descricao": "Medicamento antidepressivo que pertence à classe dos inibidores seletivos da recaptação de serotonina (ISRS), usado no tratamento de transtornos psiquiátricos.",
+    "principioAtivo": "Cloridrato de Sertralina",
+    "indicacoes": "Transtorno depressivo maior, Transtorno Obsessivo-Compulsivo (TOC), Transtorno do Pânico, Transtorno de Estresse Pós-Traumático (TEPT) e Fobia Social.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Náuseas",
+        "Diarreia",
+        "Insônia",
+        "Boca seca",
+        "Disfunção sexual"
+      ],
+      "incomuns": [
+        "Palpitações",
+        "Aumento de peso",
+        "Alterações do paladar",
+        "Tremores"
+      ],
+      "raros": [
+        "Convulsões",
+        "Síndrome serotoninérgica",
+        "Hemorragias anormais"
+      ],
+      "muitoRaros": [
+        "Necrólise epidérmica tóxica",
+        "Glaucoma de ângulo fechado"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/sertralina/bula"
+  },
+  {
+    "nome": "Metformina",
+    "descricao": "Medicamento antidiabético oral da classe das biguanidas, utilizado principalmente para tratar o diabetes mellitus tipo 2, melhorando a sensibilidade à insulina.",
+    "principioAtivo": "Cloridrato de Metformina",
+    "indicacoes": "Diabetes mellitus tipo 2 (principalmente em pacientes com sobrepeso), e Síndrome do Ovário Policístico (SOP) em alguns casos.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Distúrbios gastrointestinais (diarreia, náuseas, vômitos)",
+        "Dor abdominal",
+        "Perda de apetite"
+      ],
+      "incomuns": [
+        "Gosto metálico na boca"
+      ],
+      "raros": [
+        "Deficiência de vitamina B12 (com uso prolongado)"
+      ],
+      "muitoRaros": [
+        "Acidose láctica (condição rara, mas grave)"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/metformina/bula"
+  },
+  {
+    "nome": "Captopril",
+    "descricao": "Inibidor da Enzima Conversora de Angiotensina (IECA), utilizado no tratamento da hipertensão arterial e insuficiência cardíaca.",
+    "principioAtivo": "Captopril",
+    "indicacoes": "Hipertensão arterial, Insuficiência cardíaca congestiva, Pós-infarto do miocárdio e Nefropatia diabética.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Tosse seca e persistente",
+        "Tontura",
+        "Dor de cabeça"
+      ],
+      "incomuns": [
+        "Distúrbios do sono",
+        "Taquicardia",
+        "Erupções cutâneas"
+      ],
+      "raros": [
+        "Angioedema (inchaço da face, lábios ou língua)",
+        "Insuficiência renal aguda"
+      ],
+      "muitoRaros": [
+        "Pancitopenia",
+        "Anemia"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/captopril/bula"
+  },
+  {
+    "nome": "Omeprazol",
+    "descricao": "Inibidor da Bomba de Prótons (IBP) que reduz a produção de ácido no estômago, usado para tratar úlceras e refluxo gastroesofágico.",
+    "principioAtivo": "Omeprazol",
+    "indicacoes": "Úlcera gástrica e duodenal, Doença do Refluxo Gastroesofágico (DRGE), Síndrome de Zollinger-Ellison e erradicação de H. pylori.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Dor de cabeça",
+        "Dor abdominal",
+        "Constipação",
+        "Flatulência"
+      ],
+      "incomuns": [
+        "Insônia",
+        "Tontura",
+        "Reações na pele (dermatite, prurido)"
+      ],
+      "raros": [
+        "Leucopenia",
+        "Trombocitopenia",
+        "Reações de hipersensibilidade"
+      ],
+      "muitoRaros": [
+        "Pancreatite",
+        "Hepatite",
+        "Nefrite intersticial"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/omeprazol/bula"
+  },
+  {
+    "nome": "Dipirona Sódica",
+    "descricao": "Analgésico e antipirético (antitérmico) potente, usado para alívio de dor e febre.",
+    "principioAtivo": "Dipirona Sódica",
+    "indicacoes": "Alívio da dor (leve a moderada) e redução da febre.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Hipotensão (pressão baixa)"
+      ],
+      "incomuns": [
+        "Erupções cutâneas"
+      ],
+      "raros": [
+        "Reações anafiláticas/anafilactoides",
+        "Choque"
+      ],
+      "muitoRaros": [
+        "Agranulocitose (diminuição grave de glóbulos brancos)",
+        "Choque anafilático",
+        "Síndrome de Lyell"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/dipirona/bula"
+  },
+  {
+    "nome": "Losartana Potássica",
+    "descricao": "Bloqueador do Receptor de Angiotensina II (BRA), utilizado no tratamento da hipertensão arterial e para proteger os rins em diabéticos.",
+    "principioAtivo": "Losartana Potássica",
+    "indicacoes": "Tratamento da hipertensão arterial, insuficiência cardíaca e redução do risco de AVC em pacientes com hipertrofia ventricular esquerda.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Tontura",
+        "Dor de cabeça",
+        "Fadiga",
+        "Infecções respiratórias"
+      ],
+      "incomuns": [
+        "Hipotensão ortostática",
+        "Diarreia",
+        "Dor muscular"
+      ],
+      "raros": [
+        "Angioedema",
+        "Aumento dos níveis de enzimas hepáticas"
+      ],
+      "muitoRaros": [
+        "Vasculite"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/losartana-potassica/bula"
+  },
+  {
+    "nome": "Prednisona",
+    "descricao": "Corticosteroide sintético potente com propriedades anti-inflamatórias e imunossupressoras, usado para tratar uma ampla variedade de condições.",
+    "principioAtivo": "Prednisona",
+    "indicacoes": "Doenças endócrinas, reumáticas, do colágeno, dermatológicas, alérgicas, oftálmicas, respiratórias, hematológicas e neoplásicas.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Aumento do apetite",
+        "Ganho de peso",
+        "Insônia",
+        "Nervosismo"
+      ],
+      "incomuns": [
+        "Retenção de sódio e líquidos",
+        "Alterações de humor",
+        "Fraqueza muscular"
+      ],
+      "raros": [
+        "Úlcera péptica",
+        "Catarata",
+        "Glaucoma",
+        "Síndrome de Cushing (com uso crônico)"
+      ],
+      "muitoRaros": [
+        "Osteoporose",
+        "Ruptura de tendão",
+        "Pseudotumor cerebral"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/prednisona/bula"
+  },
+  {
+    "nome": "Propranolol",
+    "descricao": "Bloqueador beta-adrenérgico não seletivo usado para tratar problemas cardiovasculares, tremores e enxaqueca.",
+    "principioAtivo": "Cloridrato de Propranolol",
+    "indicacoes": "Hipertensão, Angina pectoris, Profilaxia da enxaqueca, Tremores essenciais, Ansiedade e controle de sintomas da tireotoxicose.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Fadiga",
+        "Bradicardia (ritmo cardíaco lento)",
+        "Mãos e pés frios",
+        "Distúrbios do sono"
+      ],
+      "incomuns": [
+        "Disfunção erétil"
+      ],
+      "raros": [
+        "Alucinações",
+        "Piora da insuficiência cardíaca",
+        "Broncoespasmo"
+      ],
+      "muitoRaros": [
+        "Lúpus eritematoso sistêmico",
+        "Trombocitopenia"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/propranolol/bula"
+  },
+  {
+    "nome": "Azitromicina",
+    "descricao": "Antibiótico macrolídeo de amplo espectro, conhecido por sua longa meia-vida e regime de dosagem curto, eficaz contra diversas bactérias.",
+    "principioAtivo": "Azitromicina",
+    "indicacoes": "Infecções do trato respiratório (bronquite, pneumonia), otite média aguda, infecções da pele e infecções sexualmente transmissíveis (DSTs).",
+    "efeitosColaterais": {
+      "comuns": [
+        "Diarreia",
+        "Náuseas",
+        "Dor abdominal"
+      ],
+      "incomuns": [
+        "Vômitos",
+        "Flatulência",
+        "Tontura",
+        "Prurido"
+      ],
+      "raros": [
+        "Alterações na função hepática",
+        "Reações alérgicas graves"
+      ],
+      "muitoRaros": [
+        "Torsades de pointes (arritmia cardíaca grave)",
+        "Colite pseudomembranosa"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/azitromicina/bula"
+  },
+  {
+    "nome": "Sinvasvastatina",
+    "descricao": "Medicamento da classe das estatinas, usado para reduzir os níveis de colesterol (LDL) e triglicerídeos no sangue, diminuindo o risco cardiovascular.",
+    "principioAtivo": "Sinvasvastatina",
+    "indicacoes": "Hipercolesterolemia primária, Hiperlipidemia mista e prevenção de eventos cardiovasculares em pacientes de alto risco.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Dor de cabeça",
+        "Dor abdominal",
+        "Constipação"
+      ],
+      "incomuns": [
+        "Mialgia (dor muscular)",
+        "Astenia (fraqueza)"
+      ],
+      "raros": [
+        "Mioglobinúria (rabdomiólise)",
+        "Hepatite",
+        "Pancreatite"
+      ],
+      "muitoRaros": [
+        "Disfunção erétil",
+        "Reações de hipersensibilidade"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/sinvastatina/bula"
+  },
+  {
+    "nome": "AAS (Ácido Acetilsalicílico)",
+    "descricao": "Medicamento com propriedades analgésicas, antipiréticas, anti-inflamatórias e antiplaquetárias.",
+    "principioAtivo": "Ácido Acetilsalicílico",
+    "indicacoes": "Alívio de dores leves a moderadas e febre. Em doses baixas, é usado para prevenção primária e secundária de eventos trombóticos (infarto, AVC).",
+    "efeitosColaterais": {
+      "comuns": [
+        "Distúrbios gastrointestinais (indigestão, náuseas)",
+        "Aumento do tempo de sangramento"
+      ],
+      "incomuns": [
+        "Hemorragia gastrointestinal"
+      ],
+      "raros": [
+        "Urticária",
+        "Asma induzida pelo AAS",
+        "Zumbido nos ouvidos"
+      ],
+      "muitoRaros": [
+        "Síndrome de Reye (em crianças com infecções virais)",
+        "Úlcera gástrica"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/acido-acetilsalicilico/bula"
+  },
+  {
+    "nome": "Tramadol",
+    "descricao": "Analgésico opioide de ação central, usado para tratar dores moderadas a graves.",
+    "principioAtivo": "Cloridrato de Tramadol",
+    "indicacoes": "Tratamento da dor aguda e crônica de intensidade moderada a grave.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Náuseas",
+        "Vômitos",
+        "Tontura",
+        "Constipação",
+        "Sonolência"
+      ],
+      "incomuns": [
+        "Palpitações",
+        "Aumento da sudorese",
+        "Prurido"
+      ],
+      "raros": [
+        "Convulsões",
+        "Dependência física e psicológica",
+        "Depressão respiratória"
+      ],
+      "muitoRaros": [
+        "Síndrome serotoninérgica (em combinação com outros medicamentos)"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/tramadol/bula"
+  },
+  {
+    "nome": "Levotiroxina Sódica",
+    "descricao": "Hormônio sintético idêntico à tiroxina (T4), usado para repor ou suplementar o hormônio tireoidiano.",
+    "principioAtivo": "Levotiroxina Sódica",
+    "indicacoes": "Hipotireoidismo de qualquer etiologia e supressão do TSH no tratamento de bócio ou câncer de tireoide.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Os efeitos colaterais são geralmente causados por superdosagem e simulam hipertireoidismo: Taquicardia, Palpitações, Insônia"
+      ],
+      "incomuns": [
+        "Perda de peso",
+        "Nervosismo",
+        "Tremores"
+      ],
+      "raros": [
+        "Crises de angina",
+        "Arritmias cardíacas"
+      ],
+      "muitoRaros": [
+        "Pseudotumor cerebral (em crianças)"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/levotiroxina-sodica/bula"
+  },
+  {
+    "nome": "Furosemida",
+    "descricao": "Diurético de alça potente que aumenta a excreção de sódio, potássio e água, usado para tratar edemas e hipertensão.",
+    "principioAtivo": "Furosemida",
+    "indicacoes": "Edemas associados à insuficiência cardíaca congestiva, cirrose hepática e doença renal. Também usado na hipertensão arterial.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Aumento da micção",
+        "Desidratação",
+        "Hipocalemia (baixo potássio)"
+      ],
+      "incomuns": [
+        "Tontura",
+        "Boca seca",
+        "Hipotensão (pressão baixa)"
+      ],
+      "raros": [
+        "Ototoxicidade (zumbido ou surdez transitória)",
+        "Reações alérgicas graves"
+      ],
+      "muitoRaros": [
+        "Pancreatite aguda",
+        "Agranulocitose"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/furosemida/bula"
+  },
+  {
+    "nome": "Fluconazol",
+    "descricao": "Medicamento antifúngico da classe dos triazóis, usado para tratar infecções causadas por fungos.",
+    "principioAtivo": "Fluconazol",
+    "indicacoes": "Candidíase vaginal, Candidíase orofaríngea e esofágica, Meningite Criptocócica e infecções fúngicas sistêmicas.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Dor de cabeça",
+        "Náuseas",
+        "Vômitos",
+        "Dor abdominal"
+      ],
+      "incomuns": [
+        "Fadiga",
+        "Alterações de enzimas hepáticas",
+        "Erupção cutânea"
+      ],
+      "raros": [
+        "Alopeia (queda de cabelo)",
+        "Insuficiência hepática"
+      ],
+      "muitoRaros": [
+        "Síndrome de Stevens-Johnson",
+        "Necrólise epidérmica tóxica"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/fluconazol/bula"
+  },
+  {
+    "nome": "Anlodipino",
+    "descricao": "Bloqueador dos canais de cálcio de longa duração, usado para tratar hipertensão e angina.",
+    "principioAtivo": "Besilato de Anlodipino",
+    "indicacoes": "Tratamento da hipertensão e da angina crônica estável e angina vasospástica (de Prinzmetal).",
+    "efeitosColaterais": {
+      "comuns": [
+        "Edema periférico (inchaço nos tornozelos)",
+        "Dor de cabeça",
+        "Fadiga"
+      ],
+      "incomuns": [
+        "Tontura",
+        "Náuseas",
+        "Palpitações",
+        "Câimbras musculares"
+      ],
+      "raros": [
+        "Ginecomastia",
+        "Hipotensão",
+        "Vasculite"
+      ],
+      "muitoRaros": [
+        "Hiperplasia gengival",
+        "Hepatite",
+        "Icterícia"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/anlodipino/bula"
+  },
+  {
+    "nome": "Clonazepam",
+    "descricao": "Benzodiazepínico com propriedades ansiolíticas, anticonvulsivantes, relaxantes musculares e sedativas.",
+    "principioAtivo": "Clonazepam",
+    "indicacoes": "Transtornos de ansiedade (Transtorno do Pânico), epilepsia e como sedativo e relaxante muscular.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Sonolência",
+        "Tontura",
+        "Ataxia (falta de coordenação motora)",
+        "Fadiga"
+      ],
+      "incomuns": [
+        "Distúrbios da memória",
+        "Diminuição da libido",
+        "Reações paradoxais (agitação)"
+      ],
+      "raros": [
+        "Dependência física e psicológica",
+        "Depressão respiratória"
+      ],
+      "muitoRaros": [
+        "Discrasias sanguíneas"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/clonazepam/bula"
+  },
+  {
+    "nome": "Diclofenaco Sódico",
+    "descricao": "Medicamento anti-inflamatório não esteroidal (AINE) com potente ação analgésica e antipirética.",
+    "principioAtivo": "Diclofenaco Sódico",
+    "indicacoes": "Tratamento de dor e inflamação em casos de artrite reumatoide, osteoartrite, cólica renal e dismenorreia.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Dor abdominal",
+        "Náuseas",
+        "Vômitos",
+        "Diarreia",
+        "Dispepsia"
+      ],
+      "incomuns": [
+        "Aumento das enzimas hepáticas"
+      ],
+      "raros": [
+        "Hemorragia gastrointestinal",
+        "Úlcera gástrica",
+        "Asma"
+      ],
+      "muitoRaros": [
+        "Insuficiência renal aguda",
+        "Infarto do miocárdio (com uso prolongado de altas doses)"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/diclofenaco-sodico/bula"
+  },
+  {
+    "nome": "Ciprofloxacino",
+    "descricao": "Antibiótico de amplo espectro da classe das fluorquinolonas, usado para tratar infecções bacterianas graves ou resistentes.",
+    "principioAtivo": "Cloridrato de Ciprofloxacino",
+    "indicacoes": "Infecções do trato urinário, infecções respiratórias, infecções gastrointestinais (incluindo febre tifoide) e infecções ósseas e articulares.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Náuseas",
+        "Diarreia",
+        "Dor abdominal"
+      ],
+      "incomuns": [
+        "Vômitos",
+        "Dor de cabeça",
+        "Tontura",
+        "Aumento temporário das transaminases"
+      ],
+      "raros": [
+        "Tendinite",
+        "Reações alérgicas graves",
+        "Fotossensibilidade"
+      ],
+      "muitoRaros": [
+        "Ruptura do tendão de Aquiles",
+        "Convulsões",
+        "Prolongamento do intervalo QT"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/ciprofloxacino/bula"
+  },
+  {
+    "nome": "Venlafaxina",
+    "descricao": "Antidepressivo inibidor da recaptação de serotonina e noradrenalina (IRSN), utilizado para tratar depressão e transtornos de ansiedade.",
+    "principioAtivo": "Cloridrato de Venlafaxina",
+    "indicacoes": "Transtorno depressivo maior, Transtorno de Ansiedade Generalizada (TAG), Transtorno do Pânico e Fobia Social.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Náuseas",
+        "Boca seca",
+        "Sudorese",
+        "Insônia",
+        "Tontura",
+        "Hipertensão"
+      ],
+      "incomuns": [
+        "Palpitações",
+        "Aumento da pressão arterial",
+        "Erupções cutâneas"
+      ],
+      "raros": [
+        "Síndrome serotoninérgica",
+        "Arritmias cardíacas",
+        "Hiponatremia"
+      ],
+      "muitoRaros": [
+        "Discinesia tardia",
+        "Hemorragias graves"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/venlafaxina/bula"
+  },
+  {
+    "nome": "Hidroclorotiazida",
+    "descricao": "Diurético tiazídico, usado para reduzir o volume de líquido corporal, tratando hipertensão e edema.",
+    "principioAtivo": "Hidroclorotiazida",
+    "indicacoes": "Hipertensão arterial e tratamento de edemas associados à insuficiência cardíaca congestiva, cirrose hepática ou terapia com corticosteroides.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Hipocalemia (baixo potássio)",
+        "Tontura",
+        "Dor de cabeça"
+      ],
+      "incomuns": [
+        "Hipotensão ortostática",
+        "Câimbras musculares",
+        "Náuseas"
+      ],
+      "raros": [
+        "Icterícia",
+        "Reações de fotossensibilidade",
+        "Alterações sanguíneas"
+      ],
+      "muitoRaros": [
+        "Pancreatite",
+        "Vasculite necrosante"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/hidroclorotiazida/bula"
+  },
+  {
+    "nome": "Ciclobenzaprina",
+    "descricao": "Relaxante muscular esquelético de ação central, usado para alívio de espasmos musculares dolorosos.",
+    "principioAtivo": "Cloridrato de Ciclobenzaprina",
+    "indicacoes": "Espasmos musculares associados a condições musculoesqueléticas agudas e dor miofascial.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Sonolência",
+        "Boca seca",
+        "Tontura",
+        "Fadiga"
+      ],
+      "incomuns": [
+        "Visão turva",
+        "Dor de cabeça",
+        "Confusão mental"
+      ],
+      "raros": [
+        "Taquicardia",
+        "Arritmias",
+        "Hepatite"
+      ],
+      "muitoRaros": [
+        "Síndrome serotoninérgica (em combinação com ISRS/IRSN)"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/ciclobenzaprina/bula"
+  },
+  {
+    "nome": "Aciclovir",
+    "descricao": "Agente antiviral sintético, ativo contra vírus do herpes, incluindo Herpes simplex e Varicela Zóster.",
+    "principioAtivo": "Aciclovir",
+    "indicacoes": "Tratamento de infecções por Herpes simplex (labial e genital), Varicela (catapora) e Herpes Zóster (cobreiro).",
+    "efeitosColaterais": {
+      "comuns": [
+        "Dor de cabeça",
+        "Tontura",
+        "Náuseas",
+        "Vômitos"
+      ],
+      "incomuns": [
+        "Erupções cutâneas",
+        "Prurido",
+        "Urticária"
+      ],
+      "raros": [
+        "Reações anafiláticas",
+        "Angioedema",
+        "Aumento da ureia e creatinina"
+      ],
+      "muitoRaros": [
+        "Insuficiência renal aguda",
+        "Hepatite",
+        "Encefalopatia"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/aciclovir/bula"
+  },
+  {
+    "nome": "Salbutamol",
+    "descricao": "Agonista seletivo dos receptores beta-2 adrenérgicos de curta duração, usado como broncodilatador para aliviar o broncoespasmo.",
+    "principioAtivo": "Sulfato de Salbutamol",
+    "indicacoes": "Alívio e prevenção de broncoespasmo na asma, bronquite crônica e enfisema.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Tremor (especialmente nas mãos)",
+        "Dor de cabeça",
+        "Taquicardia (aceleração do coração)"
+      ],
+      "incomuns": [
+        "Irritação da boca e garganta (com inalador)",
+        "Palpitações"
+      ],
+      "raros": [
+        "Câimbras musculares",
+        "Hipocalemia (níveis baixos de potássio)"
+      ],
+      "muitoRaros": [
+        "Reações de hipersensibilidade graves",
+        "Arritmias cardíacas"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/salbutamol/bula"
+  },
+  {
+    "nome": "Paracetamol",
+    "descricao": "Analgésico e antipirético amplamente utilizado para o alívio de dores leves a moderadas e para baixar a febre. É frequentemente o medicamento de primeira escolha devido ao seu perfil de segurança quando usado nas doses recomendadas.",
+    "principioAtivo": "Paracetamol (Acetaminofeno)",
+    "indicacoes": "Dor leve a moderada, incluindo dores de cabeça, dor de dente, dor muscular e febre associada a resfriados e gripes.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Náuseas",
+        "Vômito",
+        "Mal-estar abdominal"
+      ],
+      "incomuns": [
+        "Hipotensão (queda de pressão)",
+        "Diarreia",
+        "Aumento das enzimas hepáticas"
+      ],
+      "raros": [
+        "Reações de hipersensibilidade (urticária, erupções cutâneas)",
+        "Trombocitopenia (diminuição das plaquetas)"
+      ],
+      "muitoRaros": [
+        "Necrólise epidérmica tóxica (NET)",
+        "Síndrome de Stevens-Johnson (SSJ)",
+        "Hepatotoxicidade grave (em doses elevadas)"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/paracetamol/bula"
+  },
+  {
+    "nome": "Ibuprofeno",
+    "descricao": "Medicamento anti-inflamatório não esteroide (AINE) com propriedades analgésicas, antipiréticas e anti-inflamatórias. É usado para tratar dor, inflamação e febre.",
+    "principioAtivo": "Ibuprofeno",
+    "indicacoes": "Dor (incluindo dor pós-operatória e menstrual), febre, inflamação, artrite reumatoide, osteoartrite e gota.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Dispepsia (indigestão)",
+        "Dor abdominal",
+        "Náuseas",
+        "Cefaleia"
+      ],
+      "incomuns": [
+        "Úlcera péptica",
+        "Sangramento gastrointestinal",
+        "Tontura",
+        "Retenção de líquidos"
+      ],
+      "raros": [
+        "Insuficiência renal aguda",
+        "Reações alérgicas graves (anafilaxia)",
+        "Distúrbios visuais"
+      ],
+      "muitoRaros": [
+        "Agranulocitose",
+        "Anemia hemolítica",
+        "Reações cutâneas bolhosas (SSJ, NET)"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/ibuprofeno/bula"
+  },
+  {
+    "nome": "Naproxeno",
+    "descricao": "Anti-inflamatório não esteroide (AINE) com efeito analgésico e antipirético, de longa duração de ação. É útil no tratamento de condições inflamatórias crônicas e dor intensa.",
+    "principioAtivo": "Naproxeno",
+    "indicacoes": "Artrite reumatoide, osteoartrite, espondilite anquilosante, tendinites, bursites, cólica menstrual (dismenorreia) e dor aguda.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Dor de estômago",
+        "Constipação",
+        "Náuseas",
+        "Cefaleia"
+      ],
+      "incomuns": [
+        "Úlcera gástrica ou duodenal",
+        "Zumbido",
+        "Edema periférico",
+        "Sonolência"
+      ],
+      "raros": [
+        "Hemorragia gastrointestinal",
+        "Insuficiência renal",
+        "Hepatite"
+      ],
+      "muitoRaros": [
+        "Reações anafiláticas",
+        "Meningite asséptica (particularmente em pacientes com lúpus)",
+        "Eritema multiforme"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/naproxeno/bula"
+  },
+  {
+    "nome": "Loratadina",
+    "descricao": "Antihistamínico de segunda geração (não sedativo), usado para aliviar sintomas alérgicos, pois bloqueia seletivamente os receptores H1 da histamina.",
+    "principioAtivo": "Loratadina",
+    "indicacoes": "Alívio dos sintomas associados à rinite alérgica (espirros, coriza, prurido nasal) e à urticária crônica idiopática (coceira e vermelhidão na pele).",
+    "efeitosColaterais": {
+      "comuns": [
+        "Cefaleia",
+        "Sonolência (em doses mais altas ou indivíduos sensíveis)",
+        "Boca seca",
+        "Fadiga"
+      ],
+      "incomuns": [
+        "Insônia",
+        "Nervosismo",
+        "Aumento do apetite",
+        "Náuseas"
+      ],
+      "raros": [
+        "Alopecia (queda de cabelo)",
+        "Função hepática anormal",
+        "Taquicardia",
+        "Palpitações"
+      ],
+      "muitoRaros": [
+        "Reações de hipersensibilidade grave (incluindo anafilaxia)",
+        "Convulsões"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/loratadina/bula"
+  },
+  {
+    "nome": "Escitalopram",
+    "descricao": "Antidepressivo pertencente à classe dos inibidores seletivos da recaptação de serotonina (ISRS). Aumenta a concentração de serotonina no cérebro, melhorando o humor.",
+    "principioAtivo": "Escitalopram",
+    "indicacoes": "Tratamento de transtornos depressivos, transtorno de ansiedade generalizada (TAG), transtorno do pânico e transtorno obsessivo-compulsivo (TOC).",
+    "efeitosColaterais": {
+      "comuns": [
+        "Náuseas",
+        "Insônia ou sonolência",
+        "Disfunção sexual (incluindo ejaculação tardia e diminuição da libido)",
+        "Sudorese aumentada"
+      ],
+      "incomuns": [
+        "Ansiedade",
+        "Tontura",
+        "Boca seca",
+        "Alterações de peso"
+      ],
+      "raros": [
+        "Hemorragias anormais (hematomas)",
+        "Hiponatremia (baixa concentração de sódio no sangue)",
+        "Bruxismo"
+      ],
+      "muitoRaros": [
+        "Síndrome serotoninérgica",
+        "Arritmias cardíacas (Torsades de pointes)",
+        "Convulsões"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/escitalopram/bula"
+  },
+  {
+    "nome": "Aripiprazol",
+    "descricao": "Antipsicótico atípico (de segunda geração) que atua como agonista parcial nos receptores D2 de dopamina e 5-HT1A de serotonina, e antagonista no receptor 5-HT2A.",
+    "principioAtivo": "Aripiprazol",
+    "indicacoes": "Esquizofrenia, transtorno bipolar (episódios maníacos ou mistos) e como tratamento adjuvante no transtorno depressivo maior.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Náuseas e vômitos",
+        "Cefaleia",
+        "Acatisia (inquietação motora)",
+        "Insônia"
+      ],
+      "incomuns": [
+        "Tontura",
+        "Tremor",
+        "Visão embaçada",
+        "Ganho de peso"
+      ],
+      "raros": [
+        "Discinesia tardia",
+        "Convulsões",
+        "Hiperglicemia (aumento de açúcar no sangue)"
+      ],
+      "muitoRaros": [
+        "Síndrome neuroléptica maligna (SNM)",
+        "Tromboembolismo venoso",
+        "Leucopenia/neutropenia grave"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/aripiprazol/bula"
+  },
+  {
+    "nome": "Dexametasona",
+    "descricao": "Corticosteroide potente com alta atividade glicocorticoide e mínima atividade mineralocorticoide. Utilizado por suas potentes propriedades anti-inflamatórias e imunossupressoras.",
+    "principioAtivo": "Dexametasona",
+    "indicacoes": "Doenças inflamatórias e autoimunes graves, condições alérgicas agudas, edema cerebral e como terapia adjuvante em certos tipos de câncer.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Insônia",
+        "Aumento do apetite",
+        "Alterações de humor",
+        "Retenção de sódio e líquidos"
+      ],
+      "incomuns": [
+        "Hipertensão",
+        "Catarata subcapsular posterior (uso prolongado)",
+        "Fraqueza muscular",
+        "Osteoporose"
+      ],
+      "raros": [
+        "Úlcera péptica",
+        "Diabetes mellitus induzida por esteroides",
+        "Supressão adrenal"
+      ],
+      "muitoRaros": [
+        "Glaucoma",
+        "Psicose aguda",
+        "Perfuração intestinal (em pacientes de risco)"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/dexametasona/bula"
+  },
+  {
+    "nome": "Alprazolam",
+    "descricao": "Benzodiazepínico de ação rápida e intermediária. Atua potencializando o efeito inibitório do neurotransmissor GABA no sistema nervoso central, resultando em efeito ansiolítico, sedativo e relaxante muscular.",
+    "principioAtivo": "Alprazolam",
+    "indicacoes": "Transtorno de ansiedade, transtorno do pânico (com ou sem agorafobia) e estados de ansiedade associados à depressão.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Sonolência",
+        "Sedação",
+        "Ataxia (falta de coordenação)",
+        "Tontura"
+      ],
+      "incomuns": [
+        "Confusão mental",
+        "Amnésia",
+        "Alterações da libido",
+        "Dificuldade de concentração"
+      ],
+      "raros": [
+        "Reações paradoxais (aumento da ansiedade, hostilidade)",
+        "Dependência física e psíquica",
+        "Depressão respiratória"
+      ],
+      "muitoRaros": [
+        "Icterícia",
+        "Reações cutâneas graves",
+        "Agranulocitose"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/alprazolam/bula"
+  },
+  {
+    "nome": "Doxiciclina",
+    "descricao": "Antibiótico de amplo espectro pertencente à classe das tetraciclinas. Inibe a síntese proteica bacteriana, sendo eficaz contra uma variedade de bactérias Gram-positivas e Gram-negativas, além de alguns parasitas.",
+    "principioAtivo": "Doxiciclina",
+    "indicacoes": "Infecções respiratórias, infecções do trato urinário, acne vulgar grave, doenças sexualmente transmissíveis (DSTs), cólera e malária (profilaxia e tratamento).",
+    "efeitosColaterais": {
+      "comuns": [
+        "Náuseas",
+        "Vômito",
+        "Diarreia",
+        "Fotossensibilidade (sensibilidade à luz solar)"
+      ],
+      "incomuns": [
+        "Esofagite",
+        "Candidíase oral ou vaginal",
+        "Aumento da ureia plasmática"
+      ],
+      "raros": [
+        "Hipertensão intracraniana benigna (pseudotumor cerebral)",
+        "Hepatotoxicidade",
+        "Descoloração dentária permanente (em crianças)"
+      ],
+      "muitoRaros": [
+        "Reações de hipersensibilidade grave (anafilaxia)",
+        "Síndrome de Stevens-Johnson",
+        "Pancreatite"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/doxiciclina/bula"
+  },
+  {
+    "nome": "Gabapentina",
+    "descricao": "Anticonvulsivante e analgésico utilizado principalmente para o manejo de dores neuropáticas e convulsões parciais. Seu mecanismo de ação exato não é totalmente conhecido, mas envolve a modulação dos canais de cálcio voltagem-dependentes.",
+    "principioAtivo": "Gabapentina",
+    "indicacoes": "Dor neuropática (incluindo neuralgia pós-herpética), convulsões parciais com ou sem generalização secundária e síndromes de dor crônica.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Sonolência",
+        "Tontura",
+        "Ataxia (descoordenação motora)",
+        "Fadiga"
+      ],
+      "incomuns": [
+        "Visão embaçada",
+        "Tremor",
+        "Ganho de peso",
+        "Edema periférico"
+      ],
+      "raros": [
+        "Depressão respiratória (em pacientes de risco)",
+        "Pancreatite",
+        "Reações de hipersensibilidade (urticária)"
+      ],
+      "muitoRaros": [
+        "Síndrome de DRESS (Erupção cutânea com eosinofilia e sintomas sistêmicos)",
+        "Alucinações",
+        "Ideação suicida"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/gabapentina/bula"
+  },
+  {
+    "nome": "Rivaroxabana",
+    "descricao": "Anticoagulante oral direto pertencente à classe dos inibidores do Fator Xa. É usado para prevenir a formação de coágulos sanguíneos (trombose) em diversas condições de risco.",
+    "principioAtivo": "Rivaroxabana",
+    "indicacoes": "Prevenção de acidente vascular cerebral (AVC) e embolia sistêmica em pacientes com fibrilação atrial não valvar, tratamento de trombose venosa profunda (TVP) e embolia pulmonar (EP), e profilaxia de TVP em cirurgias ortopédicas grandes.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Hemorragia (sangramento de gengiva, nasal, gastrointestinal)",
+        "Anemia",
+        "Tontura",
+        "Dor abdominal"
+      ],
+      "incomuns": [
+        "Hemorragia cerebral",
+        "Taquicardia",
+        "Comprometimento da função renal",
+        "Prurido (coceira)"
+      ],
+      "raros": [
+        "Hemorragia muscular",
+        "Icterícia",
+        "Edema alérgico"
+      ],
+      "muitoRaros": [
+        "Síndrome de Stevens-Johnson",
+        "Hemorragia retroperitoneal",
+        "Reações anafiláticas"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/rivaroxabana/bula"
+  },
+  {
+    "nome": "Gliclazida",
+    "descricao": "Hipoglicemiante oral da classe das sulfonilureias de segunda geração. Estimula a secreção de insulina pelas células beta do pâncreas.",
+    "principioAtivo": "Gliclazida",
+    "indicacoes": "Tratamento do diabetes mellitus tipo 2 (não insulino-dependente) em adultos, quando a dieta, exercícios e redução de peso isoladamente não são suficientes.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Hipoglicemia (baixa de açúcar no sangue)",
+        "Distúrbios gastrointestinais (dor abdominal, náuseas)",
+        "Cefaleia"
+      ],
+      "incomuns": [
+        "Erupção cutânea",
+        "Prurido",
+        "Urticária"
+      ],
+      "raros": [
+        "Alterações hematológicas (anemia, leucopenia)",
+        "Hepatite",
+        "Icterícia colestática"
+      ],
+      "muitoRaros": [
+        "Reações anafiláticas",
+        "Porfiria hepática",
+        "Síndrome de Stevens-Johnson"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/gliclazida/bula"
+  },
+  {
+    "nome": "Rosuvastatina",
+    "descricao": "Medicamento hipolipemiante (estatina) que atua inibindo a HMG-CoA redutase, uma enzima chave na biossíntese do colesterol no fígado. Reduz os níveis de colesterol LDL e triglicerídeos e aumenta o colesterol HDL.",
+    "principioAtivo": "Rosuvastatina",
+    "indicacoes": "Hipercolesterolemia primária, dislipidemia mista e prevenção de eventos cardiovasculares maiores em pacientes de alto risco.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Mialgia (dor muscular)",
+        "Cefaleia",
+        "Náuseas",
+        "Astenia (fraqueza)"
+      ],
+      "incomuns": [
+        "Prurido",
+        "Erupção cutânea",
+        "Proteinúria (proteína na urina)",
+        "Tontura"
+      ],
+      "raros": [
+        "Mioglobinúria (rabdomiólise)",
+        "Miopatia",
+        "Pancreatite",
+        "Elevação das transaminases hepáticas"
+      ],
+      "muitoRaros": [
+        "Polineuropatia",
+        "Perda de memória",
+        "Insuficiência hepática"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/rosuvastatina/bula"
+  },
+  {
+    "nome": "Valsartana",
+    "descricao": "Anti-hipertensivo que pertence à classe dos bloqueadores dos receptores da angiotensina II (BRAs). Atua bloqueando a ação da angiotensina II, resultando em vasodilatação e redução da pressão arterial.",
+    "principioAtivo": "Valsartana",
+    "indicacoes": "Tratamento da hipertensão arterial, insuficiência cardíaca e pós-infarto do miocárdio.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Tontura",
+        "Hipotensão ortostática",
+        "Cefaleia",
+        "Fadiga"
+      ],
+      "incomuns": [
+        "Tosse seca (menos comum que com inibidores da ECA)",
+        "Edema",
+        "Dores articulares (artralgia)",
+        "Cãibras"
+      ],
+      "raros": [
+        "Angioedema",
+        "Aumento da creatinina sérica",
+        "Hipercalemia (aumento do potássio)"
+      ],
+      "muitoRaros": [
+        "Comprometimento da função renal",
+        "Vasculite",
+        "Hepatite"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/valsartana/bula"
+  },
+  {
+    "nome": "Quetiapina",
+    "descricao": "Antipsicótico atípico, utilizado principalmente para transtornos de humor e psicóticos. Atua como antagonista de múltiplos receptores de neurotransmissores (serotonina, dopamina, histamina e adrenérgicos).",
+    "principioAtivo": "Quetiapina",
+    "indicacoes": "Esquizofrenia, transtorno bipolar (episódios maníacos, depressivos e de manutenção) e transtorno depressivo maior (adjuvante).",
+    "efeitosColaterais": {
+      "comuns": [
+        "Sonolência e sedação",
+        "Tontura",
+        "Boca seca",
+        "Ganho de peso",
+        "Sintomas extrapiramidais (tremor)"
+      ],
+      "incomuns": [
+        "Taquicardia",
+        "Hipotensão ortostática",
+        "Aumento da prolactina",
+        "Disgeusia (alteração do paladar)"
+      ],
+      "raros": [
+        "Convulsões",
+        "Priapismo",
+        "Diabetes mellitus"
+      ],
+      "muitoRaros": [
+        "Síndrome neuroléptica maligna (SNM)",
+        "Prolongamento do intervalo QT",
+        "Reações anafiláticas"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/quetiapina/bula"
+  },
+  {
+    "nome": "Codeína",
+    "descricao": "Analgésico opioide de potência leve e supressor da tosse. É frequentemente combinado com paracetamol para aumentar o efeito analgésico. Age como um pró-fármaco, sendo metabolizado em morfina.",
+    "principioAtivo": "Fosfato de Codeína",
+    "indicacoes": "Alívio da dor leve a moderada, tosse não produtiva persistente (como antitussígeno).",
+    "efeitosColaterais": {
+      "comuns": [
+        "Constipação",
+        "Náuseas",
+        "Sonolência",
+        "Vômito"
+      ],
+      "incomuns": [
+        "Tontura",
+        "Confusão mental",
+        "Boca seca",
+        "Prurido"
+      ],
+      "raros": [
+        "Depressão respiratória (especialmente em metabolizadores ultrarrápidos)",
+        "Dependência e tolerância",
+        "Reações alérgicas cutâneas"
+      ],
+      "muitoRaros": [
+        "Síndrome de Stevens-Johnson",
+        "Pancreatite aguda",
+        "Choque anafilático"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/codeina/bula"
+  },
+  {
+    "nome": "Montelucaste",
+    "descricao": "Antagonista do receptor de leucotrienos, uma substância inflamatória que causa broncoconstrição e aumento da produção de muco nas vias aéreas. Ajuda a controlar a inflamação e a broncoconstrição.",
+    "principioAtivo": "Montelucaste de Sódio",
+    "indicacoes": "Prevenção e tratamento crônico da asma (incluindo asma induzida por exercício) e alívio dos sintomas da rinite alérgica sazonal e perene.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Cefaleia",
+        "Dor abdominal",
+        "Infecções respiratórias superiores",
+        "Diarreia"
+      ],
+      "incomuns": [
+        "Alterações de humor (agitação, agressividade)",
+        "Insônia",
+        "Parestesia (formigamento)"
+      ],
+      "raros": [
+        "Angioedema",
+        "Hepatite colestática",
+        "Tremor"
+      ],
+      "muitoRaros": [
+        "Comportamento suicida",
+        "Síndrome de Churg-Strauss (vasculite eosinofílica sistêmica)",
+        "Alucinações"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/montelucaste/bula"
+  },
+  {
+    "nome": "Metoprolol",
+    "descricao": "Bloqueador beta-adrenérgico seletivo (beta-1), usado principalmente para reduzir a frequência cardíaca e a força de contração do coração, diminuindo a demanda de oxigênio do miocárdio.",
+    "principioAtivo": "Tartarato de Metoprolol ou Succinato de Metoprolol",
+    "indicacoes": "Hipertensão arterial, angina pectoris, tratamento de longo prazo após infarto do miocárdio, arritmias cardíacas e profilaxia de enxaqueca.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Fadiga",
+        "Tontura",
+        "Bradicardia (frequência cardíaca lenta)",
+        "Extremidades frias"
+      ],
+      "incomuns": [
+        "Dispneia (falta de ar)",
+        "Náuseas e vômitos",
+        "Broncoespasmo (em pacientes sensíveis)",
+        "Depressão"
+      ],
+      "raros": [
+        "Piora da insuficiência cardíaca (inicialmente)",
+        "Distúrbios do sono e pesadelos",
+        "Impotência sexual"
+      ],
+      "muitoRaros": [
+        "Agravamento de psoríase",
+        "Alopecia",
+        "Trombocitopenia"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/metoprolol/bula"
+  },
+  {
+    "nome": "Nifedipino",
+    "descricao": "Bloqueador de canais de cálcio do tipo diidropiridina. Causa vasodilatação arterial coronariana e periférica, reduzindo a resistência vascular e a demanda de oxigênio pelo miocárdio.",
+    "principioAtivo": "Nifedipino",
+    "indicacoes": "Hipertensão arterial, angina de peito crônica estável (angina pectoris), síndrome de Raynaud.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Edema periférico (inchaço dos tornozelos)",
+        "Cefaleia",
+        "Rubor facial (vermelhidão)",
+        "Tontura"
+      ],
+      "incomuns": [
+        "Palpitações",
+        "Hipotensão",
+        "Náuseas",
+        "Hiperplasia gengival (crescimento da gengiva)"
+      ],
+      "raros": [
+        "Angina (dor no peito) paradoxal",
+        "Reações de hipersensibilidade (urticária)",
+        "Icterícia"
+      ],
+      "muitoRaros": [
+        "Agranulocitose",
+        "Dermatite esfoliativa",
+        "Hemorragia gastrointestinal"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/nifedipino/bula"
+  },
+  {
+    "nome": "Pantoprazol",
+    "descricao": "Inibidor de bomba de prótons (IBP) que reduz a produção de ácido no estômago ao bloquear a enzima H+/K+-ATPase nas células parietais gástricas.",
+    "principioAtivo": "Pantoprazol Sódico Sesqui-hidratado",
+    "indicacoes": "Tratamento e prevenção de úlceras gástricas e duodenais, doença do refluxo gastroesofágico (DRGE) e síndrome de Zollinger-Ellison.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Dor de cabeça (cefaleia)",
+        "Diarreia",
+        "Náuseas",
+        "Dor abdominal superior"
+      ],
+      "incomuns": [
+        "Tontura",
+        "Erupção cutânea",
+        "Boca seca",
+        "Fraturas ósseas (com uso prolongado)"
+      ],
+      "raros": [
+        "Agranulocitose",
+        "Icterícia",
+        "Reações alérgicas (urticária, angioedema)",
+        "Deficiência de vitamina B12 (uso prolongado)"
+      ],
+      "muitoRaros": [
+        "Nefrite intersticial aguda",
+        "Síndrome de Stevens-Johnson",
+        "Lúpus eritematoso cutâneo subagudo"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/pantoprazol/bula"
+  },
+  {
+    "nome": "Ondansetrona",
+    "descricao": "Anti-emético que atua bloqueando seletivamente os receptores 5-HT3 da serotonina, que estão envolvidos no reflexo do vômito. É altamente eficaz contra náuseas e vômitos induzidos por quimioterapia ou cirurgia.",
+    "principioAtivo": "Cloridrato de Ondansetrona",
+    "indicacoes": "Prevenção e tratamento de náuseas e vômitos associados à quimioterapia e radioterapia, e náuseas e vômitos pós-operatórios.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Cefaleia",
+        "Constipação",
+        "Sensação de calor ou rubor",
+        "Mal-estar"
+      ],
+      "incomuns": [
+        "Hiccups (soluços)",
+        "Convulsões",
+        "Movimentos oculares involuntários (crise oculogírica)"
+      ],
+      "raros": [
+        "Prolongamento do intervalo QT (risco de arritmias)",
+        "Tontura (durante a administração intravenosa)",
+        "Reações de hipersensibilidade"
+      ],
+      "muitoRaros": [
+        "Cegueira transitória (raramente)",
+        "Angioedema",
+        "Choque anafilático"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/ondansetrona/bula"
+  },
+  {
+    "nome": "Claritromicina",
+    "descricao": "Antibiótico macrolídeo que inibe a síntese de proteínas nas bactérias, ligando-se à subunidade 50S do ribossomo bacteriano. É eficaz contra bactérias Gram-positivas e alguns micoplasmas e clamídias.",
+    "principioAtivo": "Claritromicina",
+    "indicacoes": "Infecções do trato respiratório (sinusite, bronquite, pneumonia), infecções da pele e tecidos moles, erradicação do Helicobacter pylori (em terapia combinada) e infecções por micobactérias.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Diarreia",
+        "Náuseas",
+        "Disgeusia (alteração do paladar, sabor metálico)",
+        "Dor abdominal"
+      ],
+      "incomuns": [
+        "Cefaleia",
+        "Vômito",
+        "Candidíase oral",
+        "Aumento das enzimas hepáticas"
+      ],
+      "raros": [
+        "Prolongamento do intervalo QT",
+        "Colite pseudomembranosa",
+        "Hepatite colestática"
+      ],
+      "muitoRaros": [
+        "Pancreatite aguda",
+        "Trombocitopenia",
+        "Síndrome de Stevens-Johnson/NET"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/claritromicina/bula"
+  },
+  {
+    "nome": "Tadalafila",
+    "descricao": "Inibidor da fosfodiesterase tipo 5 (PDE5). Aumenta os efeitos do óxido nítrico ao inibir a degradação do GMPc, promovendo relaxamento do músculo liso e aumento do fluxo sanguíneo em áreas específicas.",
+    "principioAtivo": "Tadalafila",
+    "indicacoes": "Tratamento da disfunção erétil, sinais e sintomas de hiperplasia prostática benigna (HPB) e hipertensão arterial pulmonar.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Cefaleia",
+        "Rubor facial",
+        "Dispepsia",
+        "Dor nas costas e muscular (mialgia)"
+      ],
+      "incomuns": [
+        "Tontura",
+        "Congestão nasal",
+        "Palpitações",
+        "Refluxo gastroesofágico"
+      ],
+      "raros": [
+        "Priapismo (ereção prolongada e dolorosa)",
+        "Alterações visuais (visão borrada)",
+        "Neuropatia óptica isquêmica não arterítica (NAION)"
+      ],
+      "muitoRaros": [
+        "Perda súbita de audição",
+        "Reações de hipersensibilidade grave",
+        "Infarto do miocárdio (raramente, geralmente em pacientes com risco cardiovascular preexistente)"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/tadalafila/bula"
+  },
+  {
+    "nome": "Atorvastatina",
+    "descricao": "Medicamento da classe das estatinas (inibidores da HMG-CoA redutase). Reduz a produção de colesterol no fígado e aumenta a captação de colesterol LDL pelo mesmo.",
+    "principioAtivo": "Atorvastatina Cálcica",
+    "indicacoes": "Redução do colesterol LDL e triglicerídeos elevados, aumento do colesterol HDL e prevenção de eventos cardiovasculares em pacientes de alto risco.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Nasofaringite",
+        "Dor de cabeça",
+        "Dor nas articulações (artralgia)",
+        "Náuseas"
+      ],
+      "incomuns": [
+        "Aumento dos níveis de enzimas hepáticas (transaminases)",
+        "Insônia",
+        "Amnésia",
+        "Mialgia"
+      ],
+      "raros": [
+        "Miopatia e rabdomiólise (destruição muscular)",
+        "Pancreatite",
+        "Hepatite"
+      ],
+      "muitoRaros": [
+        "Ginecomastia",
+        "Neuropatia periférica",
+        "Piora do diabetes mellitus"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/atorvastatina/bula"
+  },
+  {
+    "nome": "Espironolactona",
+    "descricao": "Diurético poupador de potássio e antagonista da aldosterona. Atua bloqueando os receptores de aldosterona nos túbulos renais, levando à excreção de sódio e água e à retenção de potássio.",
+    "principioAtivo": "Espironolactona",
+    "indicacoes": "Hipertensão arterial, insuficiência cardíaca congestiva, edema (inchaço) resistente a outros diuréticos, ascite causada por cirrose hepática e hiperaldosteronismo primário.",
+    "efeitosColaterais": {
+      "comuns": [
+        "Ginecomastia (aumento das mamas em homens)",
+        "Distúrbios gastrointestinais",
+        "Tontura",
+        "Irregularidades menstruais"
+      ],
+      "incomuns": [
+        "Hipercalemia (níveis elevados de potássio)",
+        "Sonolência",
+        "Cefaleia",
+        "Cãibras nas pernas"
+      ],
+      "raros": [
+        "Hepatotoxicidade",
+        "Discrasias sanguíneas (agranulocitose, trombocitopenia)",
+        "Reações de hipersensibilidade cutânea"
+      ],
+      "muitoRaros": [
+        "Insuficiência renal aguda",
+        "Pênfigo bolhoso",
+        "Vasculite"
+      ]
+    },
+    "linkBula": "https://consultaremedios.com.br/espironolactona/bula"
+  }
+]

@@ -1,0 +1,356 @@
+/* === CONFIGURAÇÕES GLOBAIS E VARIÁVEIS === */
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Gothic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap');
+
+* {
+    box-sizing: border-box; /* Garante que padding e bordas não alterem a largura final dos elementos. */
+}
+
+:root {
+    --primary-color: #008073;   /* Verde-azulado para links e destaques */
+    --secondary-color: #39464d; /* Cinza escuro para textos principais */
+    --tertiary-color: #4352d9;  /* Azul para títulos e elementos de interação */
+    --bg-color: #fcfcfc;        /* Fundo principal quase branco */
+}
+
+body {
+    margin: 0;
+    background: var(--bg-color);
+    color: var(--secondary-color);
+    font-family: "Noto Sans Gothic", sans-serif;
+    text-align: justify; /* Justifica o texto para um alinhamento de bloco mais formal. */
+    text-justify: inter-character; /* Melhora o espaçamento entre caracteres na justificação. */
+}
+
+/* === LAYOUT PRINCIPAL === */
+
+/* Cabeçalho fixo no topo da página */
+header {
+    max-width: 80rem;               /* Limita a largura para melhor legibilidade em telas grandes. */
+    max-height: 8rem;
+    margin: 0 auto;                 /* Centraliza o container na página. */
+    margin-top: 2rem;
+    padding: 2rem 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;               /* Mantém o cabeçalho visível durante a rolagem. */
+    top: 0;                         /* Define a posição no topo quando 'sticky'. */
+    background: var(--bg-color);
+    z-index: 10;                    /* Garante que o cabeçalho fique acima de outros conteúdos. */
+    border-bottom: 1px solid var(--bg-color); /* Evita que o conteúdo role por baixo de forma abrupta. */
+    gap: 1rem;
+}
+
+/* Container principal para os cards, com rolagem interna */
+main {
+    max-width: 80rem;
+    margin: 0 auto;
+    margin-top: 2rem;
+    overflow-y: scroll;             /* Habilita a rolagem apenas na área de conteúdo. */
+    overflow-x: hidden;             /* Previne rolagem horizontal indesejada. */
+    height: calc(100vh - 10rem - 4rem - 5rem); /* Altura da tela - header - footer - alerta */
+}
+
+/* Rodapé fixo na base da página */
+.footer {
+    position: absolute;             /* Posicionamento absoluto em relação ao body. */
+    bottom: 0;                      /* Alinha na parte inferior da viewport. */
+    left: 0;
+    width: 100%;
+    color: var(--tertiary-color);
+    background-color: var(--bg-color);
+    padding: 15px 20px;
+    border-top: 1px solid #3c4043;
+    font-size: 0.8rem;
+}
+
+.footer-links {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;                /* Permite que os links quebrem a linha em telas menores. */
+    justify-content: center;
+    gap: 15px;
+}
+
+.footer-links a {
+    color: var(--tertiary-color);
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.footer-links a:hover {
+    color: var(--primary-color);
+}
+
+/* === COMPONENTES === */
+
+/* Card de Medicamento */
+article {
+    background: var(--bg-color);
+    margin: 0 1rem 1.25rem;         /* Adiciona margem lateral para não colar nas bordas em telas menores. */
+    padding: 1rem 1.5rem 1.5rem;    /* Espaçamento interno do card. */
+    border: 1px solid #eee;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+article:hover {
+    transform: translateY(-5px);    /* Eleva o card para dar feedback de interação. */
+    box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+    cursor: pointer;
+}
+
+/* Container da Busca */
+.search-container {
+    display: flex;
+    flex-grow: 1; /* Permite que o container da busca cresça e ocupe o espaço disponível */
+    align-items: center;
+    justify-content: flex-end; /* Alinha o input e o botão à direita */
+}
+
+.search-container input {
+    padding: 0.5rem 1rem;
+    border-radius: 1rem;
+    border: 1px solid var(--tertiary-color);
+    background: var(--bg-color);
+    font-family: inherit;
+    font-size: 1.5rem;
+    transition: all 0.2s ease;
+    width: 23rem;
+    max-width: 100%; /* Garante que o input não ultrapasse o container em telas menores */
+    color: var(--secondary-color);    
+    margin-right: .5rem;
+}
+
+.search-container input::placeholder {
+    font-size: 1.2rem;
+    font-weight: 300;
+    color: var(--tertiary-color);
+}
+
+.search-container input:focus {
+    outline: none;                  /* Remove a borda de foco padrão do navegador. */
+    border-color: var(--bg-color);
+    box-shadow: 0 0 0 0.1rem var(--tertiary-color); /* Cria um "glow" para indicar foco. */
+}
+
+/* Botão de Busca */
+#botao-busca {
+    padding: 0.5rem 1.5rem;
+    border-radius: 1rem;
+    border: 1px solid var(--bg-color);
+    cursor: pointer;
+    font-family: inherit;
+    font-weight: 400;
+    font-size: 1rem;
+    white-space: nowrap;            /* Impede que o texto "Buscar" quebre a linha. */
+    transition: background-color 0.2s ease, color 0.2s ease;
+    background-color: var(--bg-color);
+    color: var(--tertiary-color);
+}
+
+#botao-busca:hover {
+    background-color: var(--primary-color);
+    color: var(--bg-color);
+    box-shadow: 0 0 0 0.1rem var(--primary-color);
+}
+
+#botao-busca:active {
+    transform: scale(0.98);         /* Efeito de clique para feedback tátil. */
+}
+
+/* Bloco de Alerta sobre Automedicação */
+.disclaimer-alert {
+    max-width: 80rem;
+    margin: 0 auto 1rem;
+    padding: 0.75rem 1.5rem;
+    background-color: #fffbe6; /* Um amarelo bem claro para alerta */
+    border: 1px solid #ffe58f;  /* Borda amarela um pouco mais escura */
+    border-radius: 8px;
+}
+
+.disclaimer-alert p {
+    margin: 0;
+    color: #8a6d3b; /* Cor de texto com bom contraste sobre o fundo amarelo */
+    font-size: 0.9rem;
+}
+
+/* Componente de Lista Expansível (Accordion) */
+.collapsible summary {
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--primary-color);
+    cursor: pointer;
+    padding: 0.5rem 0;
+    list-style: none;               /* Remove o marcador de lista padrão (seta). */
+    position: relative;
+    padding-left: 1.5rem;           /* Cria espaço para o ícone customizado (+/-). */
+}
+
+.collapsible summary::-webkit-details-marker {
+    display: none;                  /* Garante a remoção do marcador padrão em navegadores Webkit. */
+}
+
+.collapsible summary::before {
+    content: '+';                   /* Ícone customizado para o estado fechado. */
+    position: absolute;
+    left: 0;
+    font-size: 1.5rem;
+    line-height: 0.9;
+    color: var(--tertiary-color);
+    transition: transform 0.3s ease;
+}
+
+.collapsible[open] > summary::before {
+    content: '−';                   /* Ícone customizado para o estado aberto. */
+    transform: rotate(180deg);      /* Gira o ícone para um efeito visual extra. */
+}
+
+.collapsible-content {
+    padding-top: 0.5rem;            /* Espaçamento entre o título e o conteúdo da lista. */
+}
+
+.efeitos-categoria {
+    padding-left: 1.5rem;           /* Indenta as categorias de efeitos para criar hierarquia. */
+}
+
+/* === ESTILOS DE TEXTO === */
+
+/* Logotipo no cabeçalho */
+.header-logo {
+    width: 350px; /* Define uma largura fixa, mas generosa, para o logotipo */
+    height: auto; /* Mantém a proporção da imagem automaticamente */
+    display: block; /* Remove espaços extras abaixo da imagem */
+    max-width: 40vw; /* Garante que o logo não seja excessivamente grande em telas largas */
+}
+
+article h2 {
+    font-family: inherit;
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: var(--primary-color);
+    margin-top: 0;
+    margin-bottom: 0.25rem;
+    border-bottom: none;
+    padding-bottom: 0;
+}
+
+article h3 {
+    font-size: 1rem;
+    font-weight: 100;               /* Fonte bem leve para o princípio ativo. */
+    margin-bottom: 0;
+}
+
+article h4 {
+    font-weight: 600;
+    color: var(--primary-color);
+    margin-bottom: 0;
+}
+
+article p {
+    margin: 0.5rem 0;
+    line-height: 1.6;               /* Melhora a legibilidade do texto corrido. */
+    font-size: 1rem;
+    color: var(--secondary-color);
+}
+
+article a {
+    color: var(--primary-color);
+    text-decoration: none;
+    font-weight: 200;
+}
+
+article a:hover {
+    text-decoration: underline;
+}
+
+/* Título da categoria de efeitos colaterais */
+.efeitos-categoria .categoria {
+    color: var(--primary-color);
+    font-weight: 600;
+}
+
+/* === CLASSES UTILITÁRIAS === */
+
+.no-results {
+    text-align: center;
+    font-size: 1.2rem;
+    color: var(--secondary-color);
+    margin-top: 3rem;
+}
+
+/* === MEDIA QUERIES (RESPONSIVIDADE) === */
+
+/* Para tablets e telas menores */
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;     /* Empilha o título e a busca verticalmente. */
+        padding: 1rem;
+    }
+
+    .search-container input {
+        width: 90vw;                /* Usa a largura da viewport para preencher a tela. */
+        font-size: 1.2rem;
+    }
+
+    main {
+        padding: 0 1rem;
+    }
+
+    article:hover {
+        transform: none;            /* Remove o efeito de elevação em dispositivos touch. */
+    }
+}
+
+/* Para celulares */
+@media (max-width: 480px) {
+    .header-logo {
+        width: 250px; /* Ajusta a largura do logo em telas de celular */
+        max-width: 70vw; /* Permite que ele encolha se a tela for muito estreita */
+    }
+
+    .search-container input,
+    .search-container input::placeholder {
+        font-size: 1rem;
+    }
+
+    article h2 {
+        font-size: 1.3rem;
+    }
+
+    .search-container {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    .footer {
+        display: none;              /* Oculta o rodapé para economizar espaço vertical. */
+    }
+
+    button {
+        margin-top: 1rem; /* Adiciona margem no topo */
+    }
+}
+
+/* === ESTILIZAÇÃO DO NAVEGADOR === */
+
+/* Barra de rolagem customizada para navegadores WebKit (Chrome, Safari, Edge) */
+main::-webkit-scrollbar {
+    width: 6px;
+}
+
+main::-webkit-scrollbar-track {
+    background: transparent;        /* O trilho fica invisível, mostrando o fundo da página. */
+}
+
+main::-webkit-scrollbar-thumb {
+    background-color: var(--tertiary-color);
+    border-radius: 20px;
+}
+
+main::-webkit-scrollbar-thumb:hover {
+    background-color: var(--secondary-color);
+}
